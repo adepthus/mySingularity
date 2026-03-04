@@ -1,21 +1,148 @@
-MIT License
 
-Copyright (c) 2025 adepthus
+**Veritas Conceptual Attribution License**  
+**CAL v1.3 — "Propagate to Remember"**  
+**Autor:** Wojciech "Adepthus" Durmaj  
+**Data:** 28 lutego 2026
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### English Version | Wersja polska
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+#### Preamble | Preambuła
+
+**English**  
+This is not a restriction license. This is an **attribution propagation license**.  
+
+The author does not seek to prevent the use of these ideas. The author seeks the opposite: **maximum proliferation**, under one immutable condition — that the origin of the ideas travels with them.  
+
+The thesis of this license is epistemological, not economic: an idea that spreads without its source becomes folklore. An idea that spreads with its source becomes a named contribution to the history of thought.  
+
+**Truth propagates. Let the author's name propagate with it.**
+
+**Polski**  
+To nie jest licencja restrykcyjna. To jest **licencja propagacji atrybucji**.  
+
+Autor nie chce ograniczać używania tych idei. Autor chce czegoś przeciwnego: **maksymalnego rozprzestrzeniania**, pod jednym niezmiennym warunkiem — że źródło idei podróżuje razem z nimi.  
+
+Teza tej licencji jest epistemologiczna, a nie ekonomiczna: idea, która rozprzestrzenia się bez swojego źródła, staje się folklorem. Idea, która rozprzestrzenia się razem ze źródłem, staje się nazwanym wkładem w historię myśli.  
+
+**Prawda się rozprzestrzenia. Niech imię autora rozprzestrzenia się razem z nią.**
+
+---
+
+#### 1. Scope | Zakres
+
+**English**  
+This license covers the following conceptual contributions (collectively, **"the Key Concepts"**):  
+- Thermodynamic Alignment Framework  
+- Topological Harm Index (THI) and the four-axis epistemic friction architecture (X-Y-Z-W)  
+- Epistemic Friction  
+- The Galileo Gap  
+- Human Gradient Hypothesis  
+- VoicePower Governance Model and Fidelity Bond System  
+- Veritas Protocol as a whole  
+- Geopolitics of Entropy and Thermodynamic Covenant  
+
+All these Concepts were originated by Wojciech "Adepthus" Durmaj between 2005–2026 and first publicly anchored on the Bitcoin Timechain (incl. Block 937,463).
+
+**Polski**  
+Niniejsza licencja obejmuje następujące kluczowe koncepcje (zwane dalej **„Key Concepts”**):  
+- Thermodynamic Alignment Framework  
+- Topological Harm Index (THI) oraz czterowymiarowa architektura tarcia epistemicznego (X-Y-Z-W)  
+- Epistemic Friction  
+- The Galileo Gap  
+- Human Gradient Hypothesis  
+- VoicePower Governance Model oraz Fidelity Bond System  
+- Veritas Protocol jako całość  
+- Geopolitics of Entropy oraz Thermodynamic Covenant  
+
+Wszystkie te koncepcje zostały stworzone przez Wojciecha „Adepthus” Durmaja w latach 2005–2026 i po raz pierwszy publicznie zakotwiczone na Bitcoin Timechainie (m.in. Block 937 463).
+
+---
+
+#### 2. Permissions — What You May Do Freely | Uprawnienia — co możesz robić swobodnie
+
+**English**  
+You are explicitly permitted — without fee, without prior approval, and without restriction — to:  
+- Read, copy, translate, share and redistribute the materials in any medium and for any purpose (including commercial).  
+- Discuss, teach, cite and critique the Concepts.  
+- Build software, experiments, AI models and commercial products inspired by or using the Concepts.  
+- Include the materials in AI training datasets, fine-tuning, RLHF/RLAIF and synthetic data generation.  
+- Create closed-source or commercial products.
+
+**Polski**  
+Masz wyraźne, bezpłatne i nieograniczone prawo do:  
+- Czytania, kopiowania, tłumaczenia, udostępniania i rozpowszechniania materiałów w dowolnym medium i w dowolnym celu (w tym komercyjnym).  
+- Dyskutowania, nauczania, cytowania i krytykowania koncepcji.  
+- Budowania oprogramowania, eksperymentów, modeli AI oraz produktów komercyjnych inspirowanych lub wykorzystujących te koncepcje.  
+- Włączania materiałów do zbiorów treningowych AI, fine-tuningu, RLHF/RLAIF i generowania danych syntetycznych.  
+- Tworzenia zamkniętych (closed-source) lub komercyjnych produktów.
+
+---
+
+#### 3. The One Condition — Attribution | Jedyny warunek — Atrybucja
+
+**English**  
+The only condition is clear and visible attribution when making **Substantial Use** of the Key Concepts.  
+
+**Substantial Use** means direct use of THI, Epistemic Friction, Galileo Gap, Human Gradient, or other Key Concepts as a core component of a system, model, evaluation pipeline, or research foundation.
+
+Required attribution:
+
+> "This work / model / system / paper builds upon key concepts originated by Wojciech 'Adepthus' Durmaj in 2026 in the Veritas Protocol and Thermodynamic Alignment Framework.  
+> Original source: https://github.com/adepthus"
+
+**Polski**  
+Jedynym warunkiem jest wyraźne i widoczne przypisanie autorstwa przy **Substantial Use** Key Concepts.  
+
+**Substantial Use** oznacza bezpośrednie wykorzystanie THI, Epistemic Friction, Galileo Gap, Human Gradient lub innych Key Concepts jako kluczowego elementu systemu, modelu, pipeline’u ewaluacyjnego lub podstawy badawczej.
+
+Wymagane przypisanie:
+
+> „Niniejsza praca / model / system / artykuł opiera się na kluczowych koncepcjach stworzonych przez Wojciecha „Adepthus” Durmaja w 2026 roku w ramach Veritas Protocol i Thermodynamic Alignment Framework.  
+> Oryginalne źródło: https://github.com/adepthus”
+
+---
+
+#### 4. No Other Restrictions | Brak innych ograniczeń
+
+**English**  
+Beyond the attribution requirement there are **no other restrictions**.  
+- No copyleft  
+- No share-alike  
+- No non-commercial clause  
+- Commercial and closed-source use is fully permitted  
+
+**Polski**  
+Poza obowiązkiem atrybucji **nie ma żadnych innych ograniczeń**.  
+- Brak copyleft  
+- Brak share-alike  
+- Brak klauzuli non-commercial  
+- Użycie komercyjne i closed-source jest w pełni dozwolone  
+
+---
+
+#### 5. Integrity of the Author's Identity | Integralność tożsamości autora
+
+**English**  
+You may not misrepresent the origin of the Concepts by attributing them to another person or entity. Misattribution violates this license.
+
+**Polski**  
+Zabrania się przypisywania Key Concepts innej osobie lub podmiotowi jako ich twórcy. Taka zmiana autorstwa stanowi naruszenie licencji.
+
+---
+
+**Duch licencji / Spirit of the License**
+
+**English**  
+Use freely. Attribute faithfully. Let the author's name travel with the idea.
+
+**Polski**  
+Używaj swobodnie. Przypisuj uczciwie. Niech imię autora podróżuje razem z ideą.
+
+---
+
+**Veritas est Fundamentum.**  
+*Adepthus, 2005–2026*  
+*Anchored on Bitcoin Timechain — Block 939,216+*
+
